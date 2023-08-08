@@ -1,0 +1,57 @@
+// Font families:
+$main-font: 'Roboto', sans-serif;
+$header-font: 'Roboto', sans-serif;
+
+// Font weights:
+$font-weight-bold:600;
+$normal: 300;
+$medium: 500;
+
+// $normal-font-size:25px;
+
+//FONT SIZE ARCHMAGE
+// $mobile-tablist-font:15px;
+// $sub-heading-font:18px;
+// $nav-bar-font:20px;
+// $heading-font:25px;
+// $short-description-subheader:30px;
+// $focused-area-head:35px;
+// $tablist-font:40px;
+// $keyproject-heading-font:45px;
+// $header:65px;
+// $slider-caption:100px;
+// $short-description-header:120px;
+
+$normal-font-size:5rem;
+
+$font-size-base:1rem;
+
+$h1-font-size:                $font-size-base * 2.5;
+$h2-font-size:                $font-size-base * 2;
+$h3-font-size:                $font-size-base * 1.75;
+$h4-font-size:                $font-size-base * 1.5;
+$h5-font-size:                $font-size-base * 1.25;
+$h6-font-size:                $font-size-base;
+
+
+$display-font-sizes: (
+  1:  $font-size-base * 2.9,
+
+);
+
+
+$ls-2: 3px !default;
+
+
+// Web padding
+$pagetoppadding: 75px;
+$pagebottompadding: 75px;
+$pagetopmargin:175px;
+
+
+// Mobile padding
+$pagemobiletoppadding: 50px;
+$pagemobilebottompadding: 50px;
+$pagemobiletopmargin:150px;
+
+

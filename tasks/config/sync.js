@@ -16,7 +16,7 @@ module.exports = function(grunt) {
     dev: {
       files: [{
         cwd: './assets',
-        src: ['**/*.!(coffee|less)'],
+        src: ['**/*.!(coffee|scss)'],
         dest: '.tmp/public'
       }]
     }
