@@ -3,10 +3,11 @@
  */
 
 
- $primary: #123a88;
- $backgroundblue: #3c87ff;
+ $primary: #3c87ff;
+ $backgroundblue: #cee6ff;
  $danger: #ff0000;
  $secondary: #ffb00e;
+ $subscribebackground:#a7cff9;
 //  $light: #FCFCFC;
 //  $mute: #999898;
 //  $border: #ffaf21;
@@ -31,6 +32,7 @@ $theme-colors: (
   "backgroundblue": $backgroundblue,
   "danger": $danger,
   "secondary": $secondary,
+  "subscribebackground":$subscribebackground,
   // "light": $light,
   // "mute": $mute,
   // "border": $border, 
