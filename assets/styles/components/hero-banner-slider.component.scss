@@ -1,0 +1,52 @@
+/**
+ * <hero-banner-slider>
+ *
+ * App-wide styles for our hero-banner-slider.
+ */
+
+[parasails-component='hero-banner-slider'] {
+  
+    @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@700&display=swap');
+
+
+    h1 {
+      font-size: 70px;
+      font-weight: 700;
+    }
+    h5 {
+      font-size: 25px;
+      font-weight: 400;
+    }
+    .search-slt{
+      display: block;
+      width: 100%;
+      height: calc(3rem + 2px) !important;
+      border: 0;
+      border-radius: 20px;
+    }
+    .wrn-btn{
+      width: 100%;
+      font-size: 16px;
+      font-weight: 400;
+      border-radius:0px 20px 20px 0px;
+    }
+    .searchbar{
+      border-radius: 20px 20px 20px 20px;
+    }
+    .bg-grey-300 {
+      opacity: 1;
+      background-color: #000000;
+    }
+    .w-px {
+      width: 1px;
+    }
+    .h-8 {
+      height: 3.2rem;
+    }
+
+    div.searchbar {
+      margin-top: 100px;
+    }
+      
+
+}
